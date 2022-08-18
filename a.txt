@@ -1,2 +1,6 @@
 add 
+<<<<<<< HEAD
 Hello world 5th commit update 
+=======
+hello world 5th update 
+>>>>>>> fix
